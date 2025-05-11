@@ -16,3 +16,11 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - Form Validation and Accessibility: How to do server-side form validation and tips for improving accessibility.
 - Authentication: How to add authentication to your application using NextAuth.js and Middleware.
 - Metadata: How to add metadata and prepare your application for social sharing.
+
+# Topics Learned
+
+**1. Styling :** can use css modules and tailwindCss with clsx tool.
+
+**2. optimizing font & image :** can use next/font and next/image for font and image optimization.
+
+**3. Layouts & Pages :** use layouts for defining page layouts, use Link compnent for navigation and usePathparams hook for getting active route.
