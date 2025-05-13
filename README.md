@@ -19,8 +19,17 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 # Topics Learned
 
-**1. Styling :** can use css modules and tailwindCss with clsx tool.
+1. Styling in next.
+2. optimizing font and images in next.
+3. making layouts and pages.
+4. navigating between pages.
+5. database setting with vercel.
+6. fetching data with vercel database.
+7. static and dynamic rendering.
+8. streaming.
+9. partial prerendering (not recommanded for production).
+10. searing and pagination.
+11. mutating data with server actions.
+12. error handling.
+13. accessibility & server side form validation.
 
-**2. optimizing font & image :** can use next/font and next/image for font and image optimization.
-
-**3. Layouts & Pages :** use layouts for defining page layouts, use Link compnent for navigation and usePathparams hook for getting active route.
